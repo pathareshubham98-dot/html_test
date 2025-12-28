@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists</title>
+</head>
+<body>
+    <ol type = "A">
+        <LI>HTML</LI>
+        <OL type = "i">
+            <LI>Level a</LI>
+            <li>level b</li>
+        </OL>
+        <LI>C</LI>
+        <LI>C++</LI>
+        <LI>HTML</LI>
+    </ol>
+    
+</body>
+</html>
